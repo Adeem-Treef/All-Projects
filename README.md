@@ -8,4 +8,4 @@ Lists of all projects.
 - CSS
 - JAVASCRIPT
 - SCSS
-- REACTJS
+- REACT-JS
